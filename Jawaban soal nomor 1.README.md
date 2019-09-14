@@ -16,3 +16,23 @@ function getProfile() {
     interest_in_coding: true //Boolean
   }
 }
+
+
+
+
+
+
+
+
+let profile = getProfile();
+
+let skills = profile.skills;
+
+// megakses sekolah
+let highschool = profile.school.highscool;
+//atau pakai es6
+
+let {skills} = profile;
+
+// print json yang telah di convert ke type String
+console.log(JSON.stringify(skills));
