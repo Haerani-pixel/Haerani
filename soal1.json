@@ -1,0 +1,11 @@
+{"biodata" : {
+    "name"                 : "Haerani",
+    "age"                  : 22,
+    "address"              : "RT 03 Desa Sungai Pancang Kecamatan Sebatik Utara Kabupaten Nunukan, Kalimantan Utara",
+    "hobbies"              : ["Membaca", "Musik", "Menulis"],
+    "is_married"           : "false",
+    "list_school"          : ["SMA Negeri 1 Sebatik Tengah", "2011", "2014", "IPA"],
+    "skills"               : ["HTML & CSS", "beginner"],
+    "interested_in_coding" : "true"
+    }
+}
